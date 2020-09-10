@@ -1,0 +1,61 @@
+RGB
+Red: 59
+Green: 110
+Blue: 165
+
+
+RGB
+Red: 0
+Green: 128
+Blue: 128
+
+
+Manuel.Hoefs@gmx.de
+
+
+C8CDD4
+
+D4D0C8
+
+
+Open-Shell
+https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/
+
+StartIsBack
+https://www.startisback.com/#download-tab
+
+OldNewExplorer 
+https://msfn.org/board/topic/170375-oldnewexplorer-119/
+
+UltraUXThemePatcher 
+http://www.syssel.net/hoefs/software_uxtheme.php
+
+
+C:\Windows\Resources\Themes
+
+
+
+
+reg.exe query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v ReleaseID
+
+
+Get-ComputerInfo | grep osversion
+
+
+(Get-WmiObject -class Win32_OperatingSystem).Caption
+[System.Environment]::OSVersion.Version
+get-wmiobject win32_operatingsystem -computer <RECHNERNAME> | select-object OSArchitecture
+
+
+
+https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
+
+https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46
+
+Guide:
+Extract the .zip file to main directory of StartIsBack (usually %LocalAppData%/StartIsBack).  
+Set the taskbar theme to Classic3.  
+For StartIsBack-only users: Set the Start orb to classic3small (Taskbar) or classic3big (Superbar).  
+For StartIsBack (taskbar) + Classic Shell (Start menu) users: Set the Start orb in SIB to null_classic3small/big. Then set the Start button in Classic Shell settings to CS_classic3small/big.  
+In advanced options of 7+ Taskbar Tweaker set "show_desktop_button_size" to 22.  
+Done! 

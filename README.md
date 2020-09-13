@@ -1,6 +1,7 @@
 # Classic Theme for Windows 10
 
 A visual style which brings back the Classic Theme known from Windows 95 or NT to nowadays Version 10. 
+<img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/windows_10_with_classic_theme.png">
 
 
 ## Table of Contents

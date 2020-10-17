@@ -80,3 +80,4 @@ If you need for some reason the classic grey tone try RGB color codes `200-205-2
 
 
 ## Known Bugs
+See the [issues section](https://github.com/malvinas2/ClassicThemeForWindows10/issues) for known bugs. 

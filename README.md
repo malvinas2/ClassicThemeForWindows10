@@ -75,7 +75,7 @@ Sign out and sign back in to activate your new window border width.
 
 
 ## Miscellaneous
-In case you miss the classic blue wallpaper try the RGB color code `59-110-165` or `0-128-128`.  
+In case you miss the classic blue wallpaper try the RGB color code `59-110-165 (3B6EA5)` or `0-128-128 (008080)`.  
 If you need for some reason the classic grey tone try RGB color codes `200-205-212 (C8CDD4)` resp. `212-208-200 (D4D0C8)`. 
 
 

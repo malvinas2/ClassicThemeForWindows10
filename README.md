@@ -62,8 +62,8 @@ E.g. save the content of `/ClassicTheme/Theme For Win10 Fall Creators Update 170
 
 ### 7. Windows settings
 - Go into `All Settings > Personalization > Colors`. 
-- Under `Choose your default Windows mode`, select `Dark`.
-- Uncheck `Automatically pick an accent color from my background`. 
+- Under `Choose your default Windows mode`, select `Light`.
+- <ins>Un</ins>check `Automatically pick an accent color from my background`. 
 - Under `Show accent color on the following surfaces`, <ins>un</ins>select the `Start, taskbar, and action center`, and `Title bars and window borders` check boxes.
 - Go into `All Settings > Personalization > Themes` and select the classic theme you want. 
 

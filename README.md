@@ -32,16 +32,16 @@ Run the configuration program `Open-Shell Menu Settings` and afterwards `Classic
 
 <table>
   <tr>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings0.png" height=30%> </td>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings1.png" height=30%> </td>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings2.png" height=30%> </td>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings3.png" height=30%> </td>
+    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings0.png" height=200px> </td>
+    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings1.png" height=200px> </td>
+    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings2.png" height=200px> </td>
+    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings3.png" height=200px> </td>
   </tr>
 
   <tr>
-   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings5.png" height=30%> </td>
-   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings6.png" height=30%> </td>
-   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings7.png" height=30%> </td>
+   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings5.png" height=200px> </td>
+   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings6.png" height=200px> </td>
+   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings7.png" height=200px> </td>
   </tr>
 </table>
 

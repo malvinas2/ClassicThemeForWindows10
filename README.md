@@ -30,20 +30,14 @@ The ClassicTheme directory created in step 1 contains a folder called `_open-she
 Copy the subfolder `Skins` and its contents to the main directory of Open-Shell (usually `%ProgramFiles%/Open-Shell`).  
 Run the configuration program `Open-Shell Menu Settings` and afterwards `Classic Explorer Settings`, use the settings shown below.  
 
-<table>
-  <tr>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings0.png" height=200px> </td>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings1.png" height=200px> </td>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings2.png" height=200px> </td>
-    <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings3.png" height=200px> </td>
-  </tr>
+| []() | []() | []() | []() | 
+| :----: | :----: | :----: | :----: | 
+| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings0.png" height=200px> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings1.png" height=200px> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings2.png" height=200px> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings3.png" height=200px> | 
 
-  <tr>
-   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings5.png" height=200px> </td>
-   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings6.png" height=200px> </td>
-   <td> <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings7.png" height=200px> </td>
-  </tr>
-</table>
+| []() | []() | []() | 
+| :----: | :----: | :----: | 
+| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings5.png" height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings6.png" height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings7.png" height=30%> | 
+
 
 ### 4. StartIsBack
 Download and install [StartIsBack](https://www.startisback.com/#download-tab).  
@@ -52,7 +46,7 @@ Run the configuration program `StartIsBackCfg.exe`, use the settings shown below
 
 | []() | []() | []() | 
 | :----: | :----: | :----: | 
-| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings1.png" width=40% height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings2.png" width=40% height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings3.png" width=40% height=40%> | 
+| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings1.png" height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings2.png" height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings3.png" height=40%> | 
 
 
 ### 5. UltraUXThemePatcher

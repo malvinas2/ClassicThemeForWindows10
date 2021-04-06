@@ -32,11 +32,11 @@ Run the configuration program `Open-Shell Menu Settings` and afterwards `Classic
 
 | []() | []() | []() | []() | 
 | :----: | :----: | :----: | :----: | 
-| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings0.png" height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings1.png" height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings2.png" height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings3.png" height=30%> | 
+| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings0.png" width=30% height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings1.png" width=30% height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings2.png" width=30% height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings3.png" width=30% height=30%> | 
 
 | []() | []() | []() | 
 | :----: | :----: | :----: | 
-| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings5.png" height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings6.png" height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings7.png" height=30%> | 
+| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings5.png" width=30% height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings6.png" width=30% height=30%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/Open-Shell_settings7.png" width=30% height=30%> | 
 
 
 ### 4. StartIsBack
@@ -46,7 +46,7 @@ Run the configuration program `StartIsBackCfg.exe`, use the settings shown below
 
 | []() | []() | []() | 
 | :----: | :----: | :----: | 
-| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings1.png" height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings2.png" height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings3.png" height=40%> | 
+| <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings1.png" width=40% height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings2.png" width=40% height=40%> | <img src="https://github.com/malvinas2/ClassicThemeForWindows10/blob/master/_settings/startisback_settings3.png" width=40% height=40%> | 
 
 
 ### 5. UltraUXThemePatcher

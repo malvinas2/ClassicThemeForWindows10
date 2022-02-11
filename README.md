@@ -77,6 +77,7 @@ Sign out and sign back in to activate your new window border width.
 ## Miscellaneous
 - [First icon of task bar hides behind start button](https://github.com/malvinas2/ClassicThemeForWindows10/issues/3)
 ![taskbar](https://user-images.githubusercontent.com/25912063/96350329-a5b29000-10b5-11eb-81d0-b813a4546004.png)
+- [Background color gets lost / Sleep Mode changes colors](https://github.com/malvinas2/ClassicThemeForWindows10/issues/1)
 - In case you miss the classic blue wallpaper try the RGB color code `59-110-165 (3B6EA5)` or `0-128-128 (008080)`.
 If you need for some reason the classic grey tone try RGB color codes `200-205-212 (C8CDD4)` resp. `212-208-200 (D4D0C8)`. 
 
